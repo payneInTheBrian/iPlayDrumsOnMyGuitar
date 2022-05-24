@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on [Villains Inc](Villainsinc.netlify.app)
+- 🔭 I’m currently working on [Villains Inc](https://Villainsinc.netlify.app)
 
 - 🌱 I’m currently learning **react, node**
 
