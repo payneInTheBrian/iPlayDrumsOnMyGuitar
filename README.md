@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on [SuperRad](SuperRad.netlify.app)
+- 🔭 I’m currently working on [SetLiszt](https://setliszt.herokuapp.com/setlist)
 
 - 🌱 I’m currently learning **js, react, node**
 
