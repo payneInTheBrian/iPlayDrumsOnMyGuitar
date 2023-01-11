@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on [Cloud Sounds]([(https://cloudsounds.cyclic.app/)])
+- 🔭 I’m currently working on [Cloud Sounds](cloudsounds.cyclic.app/)
 
 - 🌱 I’m currently learning **js, react, node**
 
