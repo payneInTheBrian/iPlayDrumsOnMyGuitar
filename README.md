@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
-- 👨‍💻 All of my projects are available at [BrianPayne.netflify.app](BrianPayne.netflify.app)
+- 👨‍💻 All of my projects are available at ![BrianPayne.netflify.app](BrianPayne.netflify.app)
 
 - 🌱 I’m currently learning **react, node, java**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   - 📫 How to reach me **Payne.in.the.Brian@gmail.com**
+  <br>
 <a href="https://twitter.com/iplaydrumsonmyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iplaydrumsonmyg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iplaydrumsonmyguitar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iplaydrumsonmyguitar" height="30" width="40" /></a>
 <a href="https://instagram.com/iplaydrumsonmyguitar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iplaydrumsonmyguitar" height="30" width="40" /></a>
