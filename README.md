@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
-<h3 align="center">Software Engineer at Cloud City LLC</h3>
-- 👨‍💻 All of my projects are available at [Brian Payne](https://brianpayne.netlify.app/)
+<h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🌱 I’m currently learning **react, node, java**
+- 🔭 I’m currently working on [Cloud Sounds](cloudsounds.cyclic.app/)
 
-- 🔭 I’m currently working on [Cloud Sounds](https://cloud-sounds.herokuapp.com/)
-<br>
-![cloud sounds gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2loOGg1aDZlN3o3OW50dG14b2Jwd3hmOXpnZ3YwNGVrOXgxcmVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hMEuaQmgFXm4SON3wV/giphy.gif)
+- 🌱 I’m currently learning **js, react, node**
+
+- 👨‍💻 All of my projects are available at [BrianPayne.netflify.app](BrianPayne.netflify.app)
+
+- 📫 How to reach me **Payne.in.the.Brian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫 How to reach me **Payne.in.the.Brian@gmail.com**
-  <br>
 <a href="https://twitter.com/iplaydrumsonmyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iplaydrumsonmyg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iplaydrumsonmyguitar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iplaydrumsonmyguitar" height="30" width="40" /></a>
 <a href="https://instagram.com/iplaydrumsonmyguitar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iplaydrumsonmyguitar" height="30" width="40" /></a>
