@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
-<h3 align="center">Software Engineer at 100Devs</h3>
-- 👨‍💻 All of my projects are available at ![BrianPayne.netflify.app](BrianPayne.netflify.app)
+<h3 align="center">Software Engineer at Cloud City LLC</h3>
+- 👨‍💻 All of my projects are available at [BrianPayne](https://BrianPayne.netflify.app)
 
 - 🌱 I’m currently learning **react, node, java**
 
