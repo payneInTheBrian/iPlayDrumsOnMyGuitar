@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on [Cloud Sounds](cloudsounds.cyclic.app/)
+- 👨‍💻 All of my projects are available at [BrianPayne.netflify.app](BrianPayne.netflify.app)
+
+ 📫 How to reach me **Payne.in.the.Brian@gmail.com**
 
 - 🌱 I’m currently learning **js, react, node**
 
-- 👨‍💻 All of my projects are available at [BrianPayne.netflify.app](BrianPayne.netflify.app)
-
-- 📫 How to reach me **Payne.in.the.Brian@gmail.com**
+- 🔭 I’m currently working on [Cloud Sounds](http://cloud-sounds.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
