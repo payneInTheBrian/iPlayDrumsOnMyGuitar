@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on [Cloud Sounds](cloudsounds.cyclic.app/)
+- 🔭 I’m currently working on [Cloud Sounds](https://cloud-sounds.herokuapp.com/)
 
+
+![cloud sounds gif](https://giphy.com/embed/hMEuaQmgFXm4SON3wV)
 - 🌱 I’m currently learning **js, react, node**
-
-- 🤝 I’m looking for help with **music projects**
 
 - 👨‍💻 All of my projects are available at [BrianPayne.netflify.app](BrianPayne.netflify.app)
 
