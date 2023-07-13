@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **react, node, java**
 
 - 🔭 I’m currently working on [Cloud Sounds](https://cloud-sounds.herokuapp.com/)
+- <br>
 ![cloud sounds gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2loOGg1aDZlN3o3OW50dG14b2Jwd3hmOXpnZ3YwNGVrOXgxcmVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hMEuaQmgFXm4SON3wV/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
