@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Payne.in.the.Brian@gmail.com**
 
-- 🌱 I’m currently learning **react, node, Java**
+- 🌱 I’m currently learning **react, node, java**
 
 - 🔭 I’m currently working on [Cloud Sounds](http://cloud-sounds.herokuapp.com/)
 
@@ -23,7 +23,7 @@
 
 
 
-[snake gif](https://github.com/iPlayDrumsOnMyGuitar/iPlayDrumsOnMyGuitar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iPlayDrumsOnMyGuitar/iPlayDrumsOnMyGuitar/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **iPlayDrumsOnMyGuitar/iPlayDrumsOnMyGuitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
